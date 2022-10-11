@@ -1,6 +1,9 @@
-### Hi there 👋
+Hi there 👋
 
+My Name is Ömer Faruk Tokluoğlu
 I'm currently student at Ecolé 42 Kocaeli
+I’m currently learning C and C#
+You can see what i already done from my repositories.
 
 <!--
 **Bersarks/Bersarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
