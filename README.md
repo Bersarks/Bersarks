@@ -4,9 +4,11 @@ My Name is Ömer Faruk Tokluoğlu
 
 I'm currently student at Ecolé 42 Kocaeli
 
-I’m currently learning C and C#
+I’m currently learning C, C++ and Python
 
 You can see what i already done from my repositories.
+
+<a href="https://www.linkedin.com/in/ömerfaruktokluoğlu-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ömer Faruk Tokluoğlu-" height="30" width="40" /></a>
 
 
 <!--
