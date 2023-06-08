@@ -1,10 +1,13 @@
-Hi there 👋
+# Hi there 👋
 
-I'm currently student at Ecolé 42 Kocaeli
+I'm working at Allianz Türkiye as Intern Java Developer.
+I'm currently student at Ecolé 42 Kocaeli.
 
-You can see what i already done from my repositories.
+You can see what i already done from my repositories and follow for more.
 
-<a href="https://www.linkedin.com/in/ömerfaruktokluoğlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ömer Faruk Tokluoğlu" height="15" width="15" /></a>
+Reach me from: <a href="https://www.linkedin.com/in/ömerfaruktokluoğlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ömer Faruk Tokluoğlu" height="15" width="15" /></a>
+
+Feel free to ask anything.
 
 
 <!--
